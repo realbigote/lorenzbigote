@@ -1,16 +1,12 @@
 this is a test file bigote.
 sugat sa bigoteng matulis
 
-test frmo desktop
 
 aray ko po
 
-
-
 sakit nyan
-(doc) update test
 
 ayos
-(doc) edit ng master
 
-edited via cli fork
+edited sa master_branch_2 dev
+
